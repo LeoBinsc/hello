@@ -1,2 +1,1 @@
-$ mkdir hello
-$ cd hello
+puts "Hello, #{ARGV.first}!"
