@@ -1,4 +1,4 @@
-# Default is "World" ddddddddddddddddddd
+# Default is "World"
 
 name = ARGV.first || "World"
 
